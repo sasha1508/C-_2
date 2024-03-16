@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Searching": {
+      "commandName": "Project",
+      "commandLineArgs": " C:\\1 txt sasha"
+    }
+  }
+}
