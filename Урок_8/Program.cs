@@ -3,7 +3,7 @@
 //Рекурсивно.
 
 //Пример вызова утилиты: utility.exe txt текст.
-
+  
 
 namespace Searching
 {
