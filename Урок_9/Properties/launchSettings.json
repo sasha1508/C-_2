@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Convert_JSON_To_XML": {
+      "commandName": "Project",
+      "commandLineArgs": "{\\\"Family\\\":\\\"Ильин\\\", \\\"Name\\\":\\\"Александр\\\", \\\"Age\\\":\\\"42\\\"}"
+    }
+  }
+}
